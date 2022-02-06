@@ -27,7 +27,7 @@ class ViewController: UIViewController {
             
         }else{
             //print("no date")
-            disPlayDate.text = ""
+            disPlayDate.text = "123"
         }
     }
 
